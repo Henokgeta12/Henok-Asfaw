@@ -25,3 +25,26 @@ My expertise lies in leveraging backend technologies to create robust and high-p
 <br />
 
 [Visit My Portfolio](https://henok-portfolio.onrender.com)
+
+---
+
+# Hi there, I'm Henok Asfaw 👋
+
+## About Me
+
+- 🔭 I’m currently working on building scalable and efficient backend solutions.
+- 🌱 I’m currently learning about AI and machine learning.
+
+## Featured Repository
+
+### [Henok Asfaw](https://github.com/yourusername/Henok-Asfaw)
+
+This repository contains my portfolio and showcases my skills and projects. It includes examples of my work in backend development and more.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/henok-asfaw)
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henokgeta12&show_icons=true&theme=radical)
